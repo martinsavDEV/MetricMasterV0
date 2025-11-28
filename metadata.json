@@ -1,0 +1,7 @@
+{
+  "name": "MétréMaster",
+  "description": "Professional quantity surveying tool (métré) allowing multi-layer surface and length measurements on maps with AI analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
